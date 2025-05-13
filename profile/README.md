@@ -33,7 +33,7 @@ This repository provides a verified **offline activation guide** for **ACDSee Ph
 *Clean interface with categorized editing panels*
 
 **2. Layer-Based Editing with Pro Tools**  
-![Editing Tools](https://photowebexpo.ru/assets/uploads/images/BIRZHAKOV/NEWS/acdsee-photo-studio-ultimate-2021_01.jpg)  
+![Editing Tools](https://res.acdsee.com/media/uploads/2021/10/21213229/2022-ParametricEditingScreenshot-Ultimate-Before-2.jpg)  
 *Work non-destructively with adjustment layers and masks*
 
 **3. Automation, Metadata & Batch Tools**  
